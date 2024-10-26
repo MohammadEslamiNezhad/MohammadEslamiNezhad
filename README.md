@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MohammadEslamiNezhad
 - 👀 I’m interested in programming and linux . 
-- 🌱 I’m currently learning java .
-- Now i try to work by git and github .
-- I hope to be a proffessional programmer . 
+- 🌱 I’m currently learning python , github .
+- Now i try to work by data science .
+- I hope to be a proffessional data scientist . 
 
 <!---
 MohammadEslamiNezhad/MohammadEslamiNezhad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
